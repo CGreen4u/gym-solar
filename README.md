@@ -1,2 +1,2 @@
-# solar-gym
+# gyms-solar
 RL gym
